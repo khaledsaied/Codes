@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello_MultiScreen_iPhone", "Hello_MultiScreen_iPhone\Hello_MultiScreen_iPhone.csproj", "{C4C7B636-1473-4A84-BAA6-717FB6546E34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4C7B636-1473-4A84-BAA6-717FB6546E34}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{C4C7B636-1473-4A84-BAA6-717FB6546E34}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{C4C7B636-1473-4A84-BAA6-717FB6546E34}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{C4C7B636-1473-4A84-BAA6-717FB6546E34}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{C4C7B636-1473-4A84-BAA6-717FB6546E34}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{C4C7B636-1473-4A84-BAA6-717FB6546E34}.Debug|iPhone.Build.0 = Debug|iPhone
+		{C4C7B636-1473-4A84-BAA6-717FB6546E34}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{C4C7B636-1473-4A84-BAA6-717FB6546E34}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{C4C7B636-1473-4A84-BAA6-717FB6546E34}.Release|iPhone.ActiveCfg = Release|iPhone
+		{C4C7B636-1473-4A84-BAA6-717FB6546E34}.Release|iPhone.Build.0 = Release|iPhone
+		{C4C7B636-1473-4A84-BAA6-717FB6546E34}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{C4C7B636-1473-4A84-BAA6-717FB6546E34}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Hello_MultiScreen_iPhone\Hello_MultiScreen_iPhone.csproj
+	EndGlobalSection
+EndGlobal
