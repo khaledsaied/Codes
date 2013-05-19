@@ -1,0 +1,5 @@
+Z:\Codes\AlpacaProject\AlpacaProject\bin\Debug\AlpacaProject.dll
+Z:\Codes\AlpacaProject\AlpacaProject\bin\Debug\AlpacaProject.pdb
+Z:\Codes\AlpacaProject\AlpacaProject\obj\Debug\AlpacaProject.csprojResolveAssemblyReference.cache
+Z:\Codes\AlpacaProject\AlpacaProject\obj\Debug\AlpacaProject.dll
+Z:\Codes\AlpacaProject\AlpacaProject\obj\Debug\AlpacaProject.pdb

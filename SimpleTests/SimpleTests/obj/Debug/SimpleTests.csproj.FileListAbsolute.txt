@@ -1,0 +1,6 @@
+Z:\Codes\SimpleTests\SimpleTests\bin\Debug\SimpleTests.exe.config
+Z:\Codes\SimpleTests\SimpleTests\bin\Debug\SimpleTests.exe
+Z:\Codes\SimpleTests\SimpleTests\bin\Debug\SimpleTests.pdb
+Z:\Codes\SimpleTests\SimpleTests\obj\Debug\SimpleTests.csprojResolveAssemblyReference.cache
+Z:\Codes\SimpleTests\SimpleTests\obj\Debug\SimpleTests.exe
+Z:\Codes\SimpleTests\SimpleTests\obj\Debug\SimpleTests.pdb

@@ -1,0 +1,49 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../Dropbox/IKT [4. SEMESTER]/SWT/SWT_FÆLLES/Handins/Hand-in-3/NK/NK.Tests/LinkedListTests.cs">
+    <Files>
+      <File FileName="LinkedLists/LinkedList.cs" Line="22" Column="4" />
+      <File FileName="LinkedLists.Tests/LinkedListTests.cs" Line="34" Column="5" />
+      <File FileName="../../../Dropbox/IKT [4. SEMESTER]/SWT/SWT_FÆLLES/Handins/Hand-in-3/NK/NK.Tests/LinkedListTests.cs" Line="86" Column="12" />
+      <File FileName="../../../Dropbox/IKT [4. SEMESTER]/SWT/SWT_FÆLLES/Handins/Hand-in-3/NK/NK/LinkedList.cs" Line="36" Column="32" />
+      <File FileName="LinkedLists.Tests/Program.cs" Line="1" Column="1" />
+      <File FileName="LinkedLists/Node.cs" Line="7" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="LinkedLists" expanded="True">
+            <Node name="References" expanded="True" />
+          </Node>
+          <Node name="LinkedLists.Tests" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="LinkedListTests.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True">
+          <Node name="LinkedLists.Tests" expanded="True">
+            <Node name="LinkedLists" expanded="True">
+              <Node name="Tests" expanded="True">
+                <Node name="MyLinkedListTests" expanded="True">
+                  <Node name="HeadRemove_RemoveHeadNode_HeadNodeIsRemoved" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
